@@ -1,0 +1,20 @@
+{
+  "name": "is-vogal",
+  "version": "0.0.0",
+  "description": "Check if letter is a vowel",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/is-vogal.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo --quiet && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-prettier": "^2.4.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
