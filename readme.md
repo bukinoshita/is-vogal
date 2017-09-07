@@ -1,4 +1,4 @@
-# is-vogal
+# is-vogal [![Build Status](https://travis-ci.org/bukinoshita/is-vogal.svg?branch=master)](https://travis-ci.org/bukinoshita/is-vogal)
 
 > Check if letter is a vowel
 
