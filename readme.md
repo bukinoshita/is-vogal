@@ -2,7 +2,7 @@
 
 > Check if letter is a vowel
 
-Different from [is-vowel](https://www.npmjs.com/package/is-vowel), `is-vogal` normalizes the letter before checking. Eg: `á` normalizes to `a`. 
+Different from [is-vowel](https://www.npmjs.com/package/is-vowel), `is-vogal` normalizes the letter before checking. Eg: `á` normalizes to `a`.
 
 
 ## Install
@@ -36,7 +36,7 @@ Returns a `boolean`
 
 #### input
 
-Type: `string`
+Type: `string`<br />
 Required
 
 Letter to be checked
