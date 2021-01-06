@@ -12,7 +12,7 @@
   "devDependencies": {
     "ava": "2.1.0",
     "eslint-config-prettier": "6.4.0",
-    "xo": "0.25.3"
+    "xo": "0.37.1"
   },
   "xo": {
     "extends": [
